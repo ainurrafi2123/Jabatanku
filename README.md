@@ -6,7 +6,7 @@
 </div>
 
 
-# Jabatanku
+# Introduction
 
 Ini adalah proyek Admin Panel sederhana yang dibuat menggunakan PHP. Admin Panel ini dirancang untuk mengelola berbagai fitur seperti manajemen pengguna, produk, transaksi, dan lainnya. Proyek ini menggunakan **PHP** sebagai backend dan **MySQL** sebagai basis data.
 
