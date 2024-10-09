@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://github.com/ainurrafi2123/Jabatanku/blob/main/Assets/img/Pegawai.png" alt="Logo Toko" width="60px">
+</div>
+<div align="center">
+  <h1>Jabatanku</h1>
+</div>
+
+
 # Jabatanku
 
 Ini adalah proyek Admin Panel sederhana yang dibuat menggunakan PHP. Admin Panel ini dirancang untuk mengelola berbagai fitur seperti manajemen pengguna, produk, transaksi, dan lainnya. Proyek ini menggunakan **PHP** sebagai backend dan **MySQL** sebagai basis data.
